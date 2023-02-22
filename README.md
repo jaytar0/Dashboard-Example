@@ -12,7 +12,7 @@ There are alternative formats in text file and flaskapp but is not included here
 
 ## Anime Dashboard [PROJECT]
 
-This is the looker result of my project for my data engineering project, you can find out more in the corresponding repository.
+This is the looker result for my data engineering project, you can find out more in the corresponding repository.
 
 
 ![anime_dash](dash_anime.png)
