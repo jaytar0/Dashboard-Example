@@ -21,6 +21,6 @@ This is the looker result of my project for my data engineering project, you can
 
 
 ## Excel Output [Work]
-This is the excel version of what the power-bi output gives.
+This is the excel version of what the power-bi output gives. These are automatically generated on each run of this comparison process and can be reoccuringly scheduled via script processes.
 ![excel](sample_excel.png)
 
