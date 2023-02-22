@@ -14,6 +14,7 @@ There are alternative formats in text file and flaskapp but is not included here
 This is the looker result of my project for my data engineering project, you can find out more in the corresponding repository.
 
 ![anime_dash](anime_dash.png)
+[Link to Live Dashboard](https://lookerstudio.google.com/s/mLPRgy9NtaM)
 
 
 ## Excel Output [Work]
