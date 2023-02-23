@@ -15,7 +15,7 @@ There are alternative formats in text file and flaskapp but is not included here
 This is the looker result for my data engineering project, you can find out more in the corresponding repository.
 
 
-![anime_dash](dash_anime.png)
+![anime_dash](dash_update.png)
 
 [Link to Data Engineering Project](https://github.com/jaytar0/DE_flow_anime_2022)
 
